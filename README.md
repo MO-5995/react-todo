@@ -1,5 +1,6 @@
 # About this app
-This is my practice "To-do App" by React.
+I'm beginner for React.
+This is "To-do App" by React,which is so simple App.
 
 ### `npm start`
 
